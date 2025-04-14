@@ -1,4 +1,5 @@
 # IT-Business-Systems-Analyst-Preparation
+I have also included a pdf file above with the same documentation
 ## 🚀 Summary: Steps I Can Take Right Now
 
 1. **Tonight or Tomorrow**: Set up a virtual machine and start a home lab.
